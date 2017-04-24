@@ -1,3 +1,6 @@
+hdfc.*
+bank-statements/*
+
 *.gem
 *.rbc
 /.config
